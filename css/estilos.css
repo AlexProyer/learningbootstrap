@@ -1,0 +1,36 @@
+body{
+    margin-top:40px;
+}
+
+.row{
+    margin:20px;
+}
+
+header{
+    background-color:#bd2130;
+    padding:20px 0;
+}
+
+.banner{
+    background-color:#faebd7;
+    padding: 200px 0;
+}
+
+.servicios .col{
+    background: #deb887;
+    padding:20px 0;
+}
+.sobrenosotros{
+    background-color: #fff8dc;
+    padding:20px 0;
+}
+
+aside{
+    background-color: #f0f8ff;
+    padding:20px 0;
+}
+
+footer{
+    background-color: #e9ecef;
+    padding:20px 0;
+}
